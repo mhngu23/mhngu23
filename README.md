@@ -1,7 +1,10 @@
 👋 Hi, I'm **Henry (@mhngu23)** — a passionate researcher in **Artificial Intelligence** and **Machine Learning**, with a particular focus on **Reinforcement Learning**.
 
+My research focuses on advancing the frontiers of artificial intelligence, specifically on **decision-making agents**, to solve real-world problems and improve quality of life. I am driven by a commitment to impactful innovation, aiming to build intelligent systems that contribute to smarter, more sustainable communities. With a strong foundation in both theoretical and applied AI, I seek to bridge research and practice to create meaningful technological solutions that empower society.
+
 🎓 I'm currently a **PhD student** at the **[A2i2 Lab](https://www.deakin.edu.au/a2i2)**, **Deakin University**, Australia.  
 I hold a **Master of Artificial Intelligence** from **RMIT University**, where I graduated with a **GPA of 3.9/4.0**.
+
 
 📌 **Google Scholar**: [https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en](https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en)  
 🔗 **LinkedIn**: [https://www.linkedin.com/in/minh-hoang-nguyen-521500175/](https://www.linkedin.com/in/minh-hoang-nguyen-521500175/)  
