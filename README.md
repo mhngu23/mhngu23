@@ -12,32 +12,32 @@ I hold a **Master of Artificial Intelligence** from **RMIT University**, where I
 
 ---
 
-### 📖 PhD Research Journey
+# 📖 PhD Research Journey
 
 - **ECML/PKDD 2025**  
   *Hybrid Cross-domain Robust Reinforcement Learning*  
   **Authors**: Linh Le Pham Van, **Minh Hoang Nguyen**, Hung Le, Hung Tran The, Sunil Gupta
 
 - **IJCAI 2025**  
-  *Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer*  
+  *[Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer](https://arxiv.org/pdf/2505.09114)*  
   **Authors**: **Minh Hoang Nguyen**, Linh Le Pham Van, Thommen George Karimpanal, Sunil Gupta, Hung Le  
-  [📄 arXiv Preprint](https://arxiv.org/pdf/2505.09114)
+
 
 - **ECML/PKDD 2024**  
   *[Variable-Agnostic Causal Exploration for Reinforcement Learning](https://doi.org/10.1007/978-3-031-70344-7_13)*  
   **Authors**: **Minh Hoang Nguyen**, Hung Le, Svetha Venkatesh
 
 - **AAMAS 2024 Tutorial**  
-  *Reinforcement Learning Exploration via Memory*  
-  [📘 Tutorial Repo](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io)
+  *[Reinforcement Learning Exploration via Memory](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io)*  
   **Authors**: Hung Le, **Minh Hoang Nguyen**, Van Dai Do
 
 ---
 
-### 📄 Other Publications
+# 📄 Other Publications
 
 - **ACM SAC 2023**  
-  *[Rug-pull Malicious Token Detection on Blockchain Using Supervised Learning with Feature Engineering](https://doi.org/10.1145/3579375.3579385)*
+  *[Rug-pull Malicious Token Detection on Blockchain Using Supervised Learning with Feature Engineering](https://doi.org/10.1145/3579375.3579385)*  
+  **Author**: **Minh Hoang Nguyen**, Phuong Duy Huynh, Son Hoang Dau, Xiaodong Li
 
 ---
 
