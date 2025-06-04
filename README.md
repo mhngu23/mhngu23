@@ -46,7 +46,8 @@ I hold a **Master of Artificial Intelligence** from **RMIT University**, where I
 ### 📄 Other Publications
 
 - **ACM SAC 2023**  
-  *[Rug-pull Malicious Token Detection on Blockchain Using Supervised Learning with Feature Engineering](https://doi.org/10.1145/3579375.3579385)*  
+  *[Rug-pull Malicious Token Detection on Blockchain Using Supervised Learning with Feature Engineering](https://doi.org/10.1145/3579375.3579385)*
+  
   **Author**: **Minh Hoang Nguyen**, Phuong Duy Huynh, Son Hoang Dau, Xiaodong Li
 
 ---
