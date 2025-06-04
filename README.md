@@ -16,19 +16,29 @@ I hold a **Master of Artificial Intelligence** from **RMIT University**, where I
 
 - **ECML/PKDD 2025**  
   *Hybrid Cross-domain Robust Reinforcement Learning*  
+
   **Authors**: Linh Le Pham Van, **Minh Hoang Nguyen**, Hung Le, Hung Tran The, Sunil Gupta
 
 - **IJCAI 2025**  
-  *[Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer](https://arxiv.org/pdf/2505.09114)*  
+  *[Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer](https://arxiv.org/pdf/2505.09114)*
+  
+  *[Git Repo](https://github.com/mhngu23/Beyond-the-Known-Decision-Making-with-Counterfactual1-Reasoning-Decision-Transformer)*
+
   **Authors**: **Minh Hoang Nguyen**, Linh Le Pham Van, Thommen George Karimpanal, Sunil Gupta, Hung Le  
 
 
 - **ECML/PKDD 2024**  
-  *[Variable-Agnostic Causal Exploration for Reinforcement Learning](https://doi.org/10.1007/978-3-031-70344-7_13)*  
+  *[Variable-Agnostic Causal Exploration for Reinforcement Learning](https://doi.org/10.1007/978-3-031-70344-7_13)*
+
+  *[Git Repo](https://github.com/mhngu23/Variable-Agnostic-Causal-Exploration-for-Reinforcement-Learning-VACERL)*
+
   **Authors**: **Minh Hoang Nguyen**, Hung Le, Svetha Venkatesh
 
 - **AAMAS 2024 Tutorial**  
-  *[Reinforcement Learning Exploration via Memory](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io)*  
+  *Reinforcement Learning Exploration via Memory*  
+
+  *[Git Repo](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io)*
+
   **Authors**: Hung Le, **Minh Hoang Nguyen**, Van Dai Do
 
 ---
