@@ -51,7 +51,7 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
   **Author**: **Minh Hoang Nguyen**, Phuong Duy Huynh, Son Hoang Dau, Xiaodong Li
 
 ---
-# 🧠 Study Suite
+### 🧠 Study Suite
 
 A curated set of personal repositories focused on mastering core AI/ML disciplines through hands-on implementation and experimentation.
 - [**ai-architectures-from-scratch**](https://github.com/mhngu23/ai-architectures-from-scratch)  
