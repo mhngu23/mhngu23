@@ -55,15 +55,12 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 
 A curated set of personal repositories focused on mastering core AI/ML disciplines through hands-on implementation and experimentation.
 - [**ai-architectures-from-scratch**](https://github.com/mhngu23/ai-architectures-from-scratch)  
-  Reimplementing deep learning models from scratch (Transformers, Diffusion Models, CNNs, RNNs, GANs, etc.) using minimal dependencies like NumPy.  
   > 🔍 Focus: Fundamental understanding of deep nets and their mechanics.
 
 - [**rl-study-suite**](https://github.com/mhngu23/rl-study-suite)  
-  A 3-month reinforcement learning study course inspired by CS285. Implements REINFORCE, DQN, PPO, TD3, etc., from scratch.  
   > 🎓 Focus: Policy gradients, value-based methods, actor-critic methods.
 
 - [**timeseries-study-suite**](https://github.com/mhngu23/timeseries-study-suite)  
-  A personal sandbox for learning time series forecasting, from ARIMA to Transformer-based models.  
   > 📈 Focus: Classical & neural forecasting models, evaluation, visualization.
 
 ---
