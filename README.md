@@ -14,7 +14,7 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 
 ---
 
-### 📖 PhD Research Journey
+### 🚀 PhD Research Journey
 
 - **ECML/PKDD 2025**  
   *Hybrid Cross-domain Robust Reinforcement Learning*  
@@ -64,6 +64,12 @@ A curated set of personal repositories focused on mastering core AI/ML disciplin
 
 - [**timeseries-study-suite**](https://github.com/mhngu23/timeseries-study-suite)  
   > 📈 Focus: Classical & neural forecasting models, evaluation, visualization.
+
+---
+### 📖 Current Reading
+
+- [**llm-reasoning-papers**](https://github.com/mhngu23/llm-reasoning-papers)  
+  > 🤖 Focus: Tracking and understanding current research on reasoning abilities in large language models (LLMs).
 
 ---
 
