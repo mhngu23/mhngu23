@@ -10,6 +10,8 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 🔗 **LinkedIn**: [https://www.linkedin.com/in/minh-hoang-nguyen-521500175/](https://www.linkedin.com/in/minh-hoang-nguyen-521500175/)  
 🧬 **ORCID**: [https://orcid.org/0000-0002-8134-3341](https://orcid.org/0000-0002-8134-3341)
 
+🤝 I’m always open to **collaboration** and **new opportunities** in AI/ML research and applied projects. Let’s connect!
+
 ---
 
 ### 📖 PhD Research Journey
@@ -64,7 +66,6 @@ A curated set of personal repositories focused on mastering core AI/ML disciplin
   > 📈 Focus: Classical & neural forecasting models, evaluation, visualization.
 
 ---
-🤝 I’m always open to **collaboration** and **new opportunities** in AI/ML research and applied projects. Let’s connect!
 
 
 <!---
