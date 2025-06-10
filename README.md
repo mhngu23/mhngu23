@@ -1,4 +1,4 @@
-👋 Hi, I'm **Henry (@mhngu23)** — a passionate researcher in **Artificial Intelligence** and **Machine Learning**, with a particular focus on **Reinforcement Learning**.
+👋 Hi, I'm **Henry ([@mhngu23](https://mhngu23.github.io/mhnguyen-ai.github.io/))** — a passionate researcher in **Artificial Intelligence** and **Machine Learning**, with a particular focus on **Reinforcement Learning**.
 
 My research focuses on advancing the frontiers of artificial intelligence, specifically on **decision-making agents**, to solve real-world problems and improve quality of life. I am driven by a commitment to impactful innovation, aiming to build intelligent systems that contribute to smarter, more sustainable communities. With a strong foundation in both theoretical and applied AI, I seek to bridge research and practice to create meaningful technological solutions that empower society.
 
