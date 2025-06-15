@@ -73,6 +73,8 @@ A curated set of personal repositories focused on mastering core AI/ML disciplin
 
 ---
 
+Thanks for stopping by! ⭐️
+
 
 <!---
 mhngu23/mhngu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
