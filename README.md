@@ -17,7 +17,7 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 ### 🚀 PhD Research Journey
 
 - **ECML/PKDD 2025**  
-  *Hybrid Cross-domain Robust Reinforcement Learning*  
+  *[Hybrid Cross-domain Robust Reinforcement Learning](https://arxiv.org/pdf/2505.23003?)*  
 
   **Authors**: Linh Le Pham Van, **Minh Hoang Nguyen**, Hung Le, Hung Tran The, Sunil Gupta
 
