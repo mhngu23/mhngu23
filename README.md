@@ -70,7 +70,8 @@ A curated set of personal repositories focused on mastering core AI/ML disciplin
 
 - [**llm-reasoning-papers**](https://github.com/mhngu23/llm-reasoning-papers)  
   > 🤖 Focus: Tracking and understanding current research on reasoning abilities in large language models (LLMs).
-
+- [**llm-as-classical-rl-implementer**](https://github.com/mhngu23/llm-as-classical-rl-implementer)  
+  > 📘 Focus: Exploring how LLMs are used to implement classical reinforcement learning (RL) algorithms.
 ---
 
 Thanks for stopping by! ⭐️
