@@ -15,6 +15,15 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 ---
 
 ### 🚀 PhD Research Journey
+- **ICDM 2025**  
+  *Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting*  
+
+  **Authors**: Hung Le, Sherif Abbas, Minh Hoang Nguyen, Van Dai Do, Huu Hiep Nguyen, Dung Nguyen
+  
+- **ECAI 2025**  
+  *[Cross-Domain Offline Reinforcement Learning with Nearest-Neighbor Guided Diffusion Model](https://arxiv.org/pdf/2507.20499?)*  
+
+  **Authors**: Linh Le Pham Van, Minh Hoang Nguyen, Duc Kieu, Hung Le, Hung The Tran, Sunil Gupta
 
 - **ECML/PKDD 2025**  
   *[Hybrid Cross-domain Robust Reinforcement Learning](https://arxiv.org/pdf/2505.23003?)*  
