@@ -15,6 +15,16 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 ---
 
 ### 🚀 PhD Research Journey
+- **ICML 2026**  
+  *[Reviving Error Correction in Modern Deep Time-Series Forecasting](https://openreview.net/pdf?id=vff4htYMrO)*  
+
+  **Authors**: Minh Hoang Nguyen, Huu Hiep Nguyen, Dung Nguyen, Kien Do, Hung Le
+  
+- **AISTATS 2026**  
+  *[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/pdf/2602.01588)*  
+
+  **Authors**: Huu Hiep Nguyen, Minh Hoang Nguyen, Dung Nguyen, Hung Le
+
 - **ICDM 2025**  
   *[Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting](https://arxiv.org/pdf/2510.01206?)*  
 
