@@ -72,6 +72,16 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
   **Author**: **Minh Hoang Nguyen**, Phuong Duy Huynh, Son Hoang Dau, Xiaodong Li
 
 ---
+### 📖 Current Reading
+- [**vla-as-robotic-cotroller**](https://github.com/mhngu23/vla_paper_tracker)  
+  > 🦾 Focus: Investigating how large language models can serve as controllers for robotic systems and reinforcement learning policies.
+- [**llm-reasoning-papers**](https://github.com/mhngu23/llm-reasoning-papers)  
+  > 🤖 Focus: Tracking and understanding current research on reasoning abilities in large language models (LLMs).
+- [**llm-as-classical-rl-implementer**](https://github.com/mhngu23/llm-as-classical-rl-implementer)  
+  > 📘 Focus: Exploring how LLMs are used to implement classical reinforcement learning (RL) algorithms.
+---
+
+
 ### 🧠 Study Suite
 
 A curated set of personal repositories focused on mastering core AI/ML disciplines through hands-on implementation and experimentation.
@@ -83,14 +93,6 @@ A curated set of personal repositories focused on mastering core AI/ML disciplin
 
 - [**timeseries-study-suite**](https://github.com/mhngu23/timeseries-study-suite)  
   > 📈 Focus: Classical & neural forecasting models, evaluation, visualization.
-
----
-### 📖 Current Reading
-
-- [**llm-reasoning-papers**](https://github.com/mhngu23/llm-reasoning-papers)  
-  > 🤖 Focus: Tracking and understanding current research on reasoning abilities in large language models (LLMs).
-- [**llm-as-classical-rl-implementer**](https://github.com/mhngu23/llm-as-classical-rl-implementer)  
-  > 📘 Focus: Exploring how LLMs are used to implement classical reinforcement learning (RL) algorithms.
 ---
 
 Thanks for stopping by! ⭐️
